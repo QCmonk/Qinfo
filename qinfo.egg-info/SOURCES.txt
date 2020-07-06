@@ -1,0 +1,9 @@
+README.md
+setup.py
+qinfo/__init__.py
+qinfo/operators.py
+qinfo/qinfo.py
+qinfo.egg-info/PKG-INFO
+qinfo.egg-info/SOURCES.txt
+qinfo.egg-info/dependency_links.txt
+qinfo.egg-info/top_level.txt
